@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-09-24T00:25:12+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/-_-/Downloads/Сергей Гуриев Связи.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../Downloads/Сергей Гуриев Связи.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:5f3ab33d-a2e3-4250-a3c8-ca94419ed54a</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">16</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="2010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="2020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="3000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="3090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="40727"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="40727"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="45136"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="45272"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="62999"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="63045"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="101999"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="102014"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="110999"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="111090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="152045"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="Рома" LINGUISTIC_TYPE_REF="utterance"
+        PARTICIPANT="@smg1971m" TIER_ID="Text@smg1971m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>Здравствуйте!</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>Не знаю, но вы задали вопрос / Я и согласился - почему бы не ответить? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>Действительно, я жил до 5 лет во Владикавказе / Потом каждое лето возвращался и проводил время со своими двоюродными братьями и сёстрами, бабушками и дедушками. / Действительно, было очень интересно / Совершенно / совершенно другой город / Мы тогда жили в Киеве, потом я жил в Москве / Это совершенно другая жизнь, гораздо более уютная / И комфортный маленький город / Вокруг горы и очень красивая природа / И, конечно, я чувствовал себе совершенно по-другому / И, кроме того, конечно, я чувствовал себя в большей степени как дома. //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>Ну, в первую очередь, конечно, это улицы, где мы жили, где жили мои родственники / Это и городок СКГМИ, и на улице Николаева, и улица Тельмана, где жила другая моя бабушка / И улица Московская, где мы раньше жили до 5 лет / А потом там жили мои дядя, тётя и мои двоюродные брат и сёстры / И, конечно, это, как ни странно, в большей степени для меня Владикавказ, чем центральная часть - проспект Мира / Именно эти места, где я провёл гораздо больше времени, чем в центрлальных туристических частях Владикавказа.  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Рома" LINGUISTIC_TYPE_REF="utterance"
+        PARTICIPANT="@i" TIER_ID="Text@i">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>Здравствуйте, Сергей! //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>Я хочу начать с такой небольшой предыстории / Десять лет назад, когда я была школьницей, моя мама уже говорила о вас / Говорила о том, что есть такой наш земляк - Сергей Гуриев, - он известный экононмист / Она читала ваши статьи, а я была школьницей, такой далёкой от политики и всего общественного / И я не могла себе вообще представить, что через 10 лет  я стану журналистом и буду разговаривать с вами / А когда в 2019 -м году я написала вам с просьбой прокомментировать кое-какой вопрос, я вообще не поверила своим глазам / И скажите, пожалуйста, почему вы согласились?   //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>Не могу не начать наше интервью с вопроса об Осетии / Вот вы родились в Орджоникидзе / ныне это Владикавказ / В возрасте 5 лет переехали в Киев / Но часто бывали в Осетии на каникулах / Вот можете рассказать о каких-то детских воспоминаниях, связанных с Владикавказом? </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>Какие-нибудь, может быть, у вас остались тоже в всопоминаниях именно улицы? / Какие-то ваши любимые во Владикавказе? / Может, уже после того как вы выросли и приезжали в Осетию? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Рома" LINGUISTIC_TYPE_REF="Translation"
+        PARENT_REF="Text@smg1971m" PARTICIPANT="@smg1971m" TIER_ID="Translation1">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>Hello!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>I do not know, but you asked a question. Why don't answer it?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a11" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>Actually, I had lived in Vladikavkaz before 5 years. Then every summer I was coming back and was spending time here with my cousins and grandparents. In fact, it was rather interesting. Absolutely another city. We lived in Kiev at that time, then I lived in Moscow. It's totally another life, rather more comfortable. And comfortable little town. There are mountains and very picturesque nature around.  And certainly, I was feeliing myself in another way. Besides, I was essentially feeling myself at home.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a12" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>First of all, certainly, it is the streets where we lived, where my relatives lived. It is a SKGMI town and on the street Nikolaeva, and Telmana street, where we had lived before 5 years. And then my uncle, aunt and my cousins lived there. And surely, however strange, that is esentially for me Vladikavkaz than its central part - the avenue of peace. It is in these places where I spent most of time than in the cental touristique parts of Vladikavkaz.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Рома" LINGUISTIC_TYPE_REF="Translation"
+        PARENT_REF="Text@i" PARTICIPANT="@i" TIER_ID="Translation2">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a13" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>Hello!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a14" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>I would rather start with a little prehistory. 10 years before, when I was a schoolgirl. My mum talked about you. She talked about the fact that there is our fellow countryman - Serguei Gouriev - he is a famous economist . She read plenty of your articles, and I was simply a schoolgirl, who was so far from the politics and everything social. And I could not imagine that in 10 years I would become a journalist and would talk to you. And in 2019 when I wrote to you with the demand to comment a question, I didn't really believe it. Say, please, why have you agreed?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a15" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>I can't help starting our interview with the question about Ossetia.You were born in Ordzhonikidze. Currently, it is Vladikavkaz. At the age of 5 you moved to Kiev. But you frequently visited Ossetia during your holiday. Could you say about your childhood memories related to Vladikavkaz?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a16" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>Probably, do you have in memories the names of the streets? Some of your favourite... Probably, after you grew up and when you came in Vladikavkaz?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="Text" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Translation" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="words" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="phonetic_transcription" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="gestures" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        CONTROLLED_VOCABULARY_REF="Gesture phases"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_phases" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_meaning" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        CONTROLLED_VOCABULARY_REF="POS" GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="part of speech" TIME_ALIGNABLE="false"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001"
+        LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="Gesture phases">
+        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_63cf5371-a874-4ff4-8c4d-aa07dd2b8bea">
+            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_4f9be222-1088-4cea-be74-106f9b6685d6">
+            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_dfcd354e-f6b4-42a1-b3f4-d34a03d2ce07">
+            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_e74e8fce-c901-4bae-8cb2-2645b9a6ebdc">
+            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="POS">
+        <DESCRIPTION LANG_REF="und">Part of Speech</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_f13ac8e3-19ca-43f8-b3a6-aed9b801dcbd">
+            <CVE_VALUE DESCRIPTION="noun" LANG_REF="und">n</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_21fe1053-2b28-4b87-8210-a6267ec5aec4">
+            <CVE_VALUE DESCRIPTION="verb" LANG_REF="und">v</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_3f94d070-0b22-458d-b204-93e8c2717f1b">
+            <CVE_VALUE DESCRIPTION="interjection" LANG_REF="und">int</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_1d461587-ccc9-4169-9f7f-ae1b752c9133">
+            <CVE_VALUE DESCRIPTION="adjective" LANG_REF="und">adj</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_5d38cd56-cd44-4c9d-9825-55ad57901da6">
+            <CVE_VALUE DESCRIPTION="pronoun" LANG_REF="und">pro</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_b8c9370c-1240-4844-a001-770d9fc9c908">
+            <CVE_VALUE DESCRIPTION="determiner" LANG_REF="und">det</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_52fa071e-c57b-4cca-a189-cb2304cb891b">
+            <CVE_VALUE DESCRIPTION="article" LANG_REF="und">art</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_5ea39099-98a4-40bf-897c-3a1065126fe3">
+            <CVE_VALUE DESCRIPTION="preposition" LANG_REF="und">prep</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_e24157f8-bd6e-4679-9c76-b8c67def8061">
+            <CVE_VALUE DESCRIPTION="adverb" LANG_REF="und">adv</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_2dfc7538-54f7-4028-83e4-d502b96f2736">
+            <CVE_VALUE DESCRIPTION="conj" LANG_REF="und">con</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_5caddbbe-62d5-44b8-a4cc-b1a84d3076fb">
+            <CVE_VALUE DESCRIPTION="demonstrative pronoun" LANG_REF="und">dem</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_bd0361e0-0e68-44d7-a8c3-910610bf2f03">
+            <CVE_VALUE DESCRIPTION="post" LANG_REF="und">post</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_987f0c17-a885-48b4-88da-408dc4482871">
+            <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">part</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>
